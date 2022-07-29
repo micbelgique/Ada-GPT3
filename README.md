@@ -43,4 +43,4 @@ It's just a simple web AI using OpenAI GPT-3 and flask (Python)
 ## Authors
 
 - [@Antoine Smet](https://github.com/AntoineSmet/)
-
+- [@Lloyd Colart](https://github.com/Lloydcol/)
