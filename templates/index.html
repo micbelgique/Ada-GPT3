@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<head>
+  <title>Ada Mic</title>
+  <link
+    rel="shortcut icon"
+    href="{{ url_for('static', filename='mic.png') }}"
+  />
+  <link rel="stylesheet" href="{{ url_for('static', filename='main.css') }}" />
+</head>
+<body>
+
+  <img src="{{ url_for('static', filename='ada.png') }}" class="icon" />
+
+  <form action="/" method="post">
+    <input type="text" name="human" placeholder="Ecris-moi"  />
+    <input type="submit" value="Envoyer" />
+  </form>
+  {% if result %}
+  <div class="result">  {{ result }} </div>
+  {% endif %}
+
+ 
+
+
+
+</body>
