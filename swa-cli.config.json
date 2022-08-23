@@ -1,0 +1,11 @@
+{
+  "$schema": "https://aka.ms/azure/static-web-apps-cli/schema",
+  "configurations": {
+    "ada-gpt3": {
+      "appLocation": "templates",
+      "outputLocation": ".",
+      "appName": "ada-gpt3",
+      "resourceGroupName": "ada-gpt3-rg"
+    }
+  }
+}

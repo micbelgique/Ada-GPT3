@@ -38,7 +38,7 @@ It's just a simple web AI using OpenAI GPT-3 and flask (Python)
    $ flask run
    ```
 
-![MIC](https://cdn.discordapp.com/attachments/988803921634021466/997492237783007292/Capture_decran_2022-04-26_135503.png)
+
 
 ## Authors
 
